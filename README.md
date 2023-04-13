@@ -1,2 +1,2 @@
 # eProcessApi
-Go Meli api interface
+Python Meli api interface
